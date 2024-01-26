@@ -45,6 +45,7 @@ Table of Contents
 - [What is Berachain? 🐻 ⛓️](https://docs.berachain.com/learn/#what-is-berachain)
 - [Berachain (BERA): An In-Depth Analysis of Berachain’s Technical Architecture
 ](https://daic.capital/blog/Berachain-BERA-An-In-Depth-Analysis-of-Berachain-s-Technical-Architecture-5d6134b919a649cbaa138af3adc64c6a)
+- [Berachain (BERA): Cosmos-Specific EVM-Compatible Liquidity Redefined](https://daic.capital/blog/Berachain-BERA-Cosmos-Specific-EVM-Compatible-Liquidity-Redefined-ad2ea4f93dc84499a52aaaeb14a2a070)
 - [Introducing Berachain](https://medium.com/a41-ventures/research-introducing-berachain-901315f5bad6)
 - [Wait, It's Real? What is Berachain?](https://mirror.xyz/0x524f1E4B8E21558B3c42650f39E65d2041466F02/emtTFiTwKHm8PYtBL1NF-J1DsVrY-yi1Vs3vb4sHY6M)
 - [Berachain: Next Generation Liquidity](https://research.nansen.ai/articles/berachain-next-generation-liquidity)
