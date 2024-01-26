@@ -4,7 +4,7 @@
     <a href="https://twitter.com/LiquiLabsFndn">
       <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
     </a>
-    <a href="https://t.me/+I6ryFWdizgI3MDY1">
+    <a href="https://t.me/+VBorjXJKs_U3NjVl">
       <img alt="TG" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
   </p>
@@ -13,7 +13,7 @@
 </div>
 
 ### Telegram Group
-Join the discussion [group chat](https://t.me/+I6ryFWdizgI3MDY1) with other developers and researchers
+Join the discussion [group chat](https://t.me/+VBorjXJKs_U3NjVl) with other developers and researchers
 
 
 Table of Contents
