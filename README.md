@@ -60,7 +60,7 @@ Table of Contents
 
 ## Tools
 - [Quick Start](https://docs.berachain.com/developers/)
-- [Berachain Faucet](https://artio.faucet.berachain.com/#dapps)https://artio.faucet.berachain.com/#dapps
+- [Berachain Faucet](https://artio.faucet.berachain.com/#dapps)
 - [LiquiLabs Berachain Faucet](https://berafaucet.com/)
 - [The Honey Jar Berachain Faucet](https://faucet.0xhoneyjar.xyz/)
 - [Testnet Explorer](https://artio.beratrail.io/)
